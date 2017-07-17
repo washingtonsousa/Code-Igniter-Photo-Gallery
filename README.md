@@ -9,7 +9,7 @@ It is a simple, but sofisticated photo gallery made using Code Igniter 3.0 frame
 
 First of all you must have a http server with at least php 5.6 and MySQL Server 5 (maybe some other php features for example), for more information about it, please check out the Code Igniter documentation on https://www.codeigniter.com/user_guide/.
 
-*The software was build and tested on Uwamp Server (portable WAMP sever). 
+*The software was built and tested on Uwamp Server (portable WAMP sever). 
 
 Here below are some steps to follow in order to use this application  
 
